@@ -8,3 +8,5 @@ www/css/
 *.log
 *.DS_Store
 .idea
+/resources/android
+/resources/ios
