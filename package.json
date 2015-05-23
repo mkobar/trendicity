@@ -24,11 +24,14 @@
     "postinstall": "bower install"
   },
   "cordovaPlugins": [
-    "org.apache.cordova.statusbar",
-    "org.apache.cordova.console",
-    "org.apache.cordova.inappbrowser",
-    "org.apache.cordova.geolocation",
-    "org.apache.cordova.network-information",
-    "com.ionic.keyboard"
+    "com.ionic.keyboard",
+    "cordova-plugin-inappbrowser",
+    "cordova-plugin-statusbar",
+    "cordova-plugin-console",
+    "cordova-plugin-geolocation",
+    "cordova-plugin-network-information"
+  ],
+  "cordovaPlatforms": [
+    "android"
   ]
 }
