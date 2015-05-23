@@ -1,6 +1,6 @@
 {
   "name": "trendicity",
-  "app_id": "",
+  "app_id": "617081c6",
   "gulpStartupTasks": [
     "sass",
     "watch"
